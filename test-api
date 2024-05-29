@@ -8,8 +8,8 @@ metadata:
     - rest
   annotations:
     # The annotation is deprecated, we use placeholders (see below) instead, remove it later.
-   #  backstage.io/definition-at-location: 'url:https://raw.githubusercontent.com/APIs-guru/openapi-directory/master/APIs/spotify.com/v1/swagger.yaml'
-    github.com/project-slug: cbaschreider/bsdemo-api-test
+    # backstage.io/definition-at-location: 'url:https://raw.githubusercontent.com/APIs-guru/openapi-directory/master/APIs/spotify.com/v1/swagger.yaml'
+    #github.com/project-slug: cbaschreider/bsdemo-api-test
 spec:
   type: openapi
   lifecycle: production
